@@ -1,0 +1,10 @@
+```Apex Bot Commands```
+**ta.redeem [Common/Novice/Specialist/Legendary]**: Draws a random item out of a specified lootbox.
+
+**ta.contents [Common/Novice/Specialist/Legendary]**: Posts all of the items contained within a specified lootbox.
+
+**ta.info [Item]**: Posts detailed information on the specified item.
+
+**ta.steal**: Determines whether a loser keeps his/her equipped item.
+
+**ta.help**: Posts the help screen.

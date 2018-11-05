@@ -1,0 +1,46 @@
+>expert belt
+<A belt that reflects the wearers mastery in all fields of combat. Increases the amount of Faction Points gained in all Individual Events by 2.
+>royal crown
+<A captivating headpiece that is sure to leave your enemies in awe. Decreases the amount of Faction Points lost in Chess Individual Events by 3. Increases the amount of Faction Points gained in Chess Organized Events by 10. Increases the amount of Faction Points gained in Chess Individual Events by 2.
+>mudae-o-matic 3000
+<The worlds newest and most refined method of waifu extraction. Increases the amount of Faction Points gained by 5 after collecting 10 characters from any listed set (applies to all Faction Members).
+>plasma cleaver
+<A giant luminescent broadsword that cuts through human flesh almost as well as Nintendo cut through PBB. Increases the amount of Faction Points lost by your opponent(s) in all Brawlhalla Individual Events by 10.
+>ban hammer
+<The infamous tool of mass destruction. This item is totally legit and you have no reason to believe otherwise. Permanently bans all who oppose you, win or lose, if you deem it appropriate.
+>assault velt
+<A sturdy piece of equipment, often worn by oddly shaped creatures. Decreases Faction Points lost in Pokemon Individual Events by 3.
+>life orb
+<An orb that extracts life energy about as quickly as #sheet-changes. Increases the amount of Faction Points gained in all Individual Events by 3. Increases the amount of Faction Points lost in all Individual Events by 2.
+>king’s robe
+<A bedazzled robe with a long furry tail attached to it OwO. Increases the amount of Faction Points gained in Chess Individual Events by 3.
+>laser blasters
+<Flashy dual-wielded pistols that are used more at parties than on the battlefield. Increases the amount of Faction Points gained in Brawlhalla Individual Events by 3.
+>victorian teapot
+<A fancy piece of silverware that adds class to any room it resides in. Increases the amount of Faction Points gained in Tea-Related Events by 1.
+>riddler’s cane
+<A long golden cane that oddly resembles a form of punctuation. Provides the wearer with an extra guess in all Major Faction Events (applies to all Faction Members).
+>focus sash
+<A normal, honest-to-god, sash that is somehow capable of sustaining life. Why research like this has gone unnoticed remains a mystery. Prevents the wearer from losing Faction Points for a single Individual Faction Event of their choosing. This item is consumed immediately after use.
+>tm case
+<A CD Case with some trippy CDs stored within it. Increases the amount of Faction Points gained from Draft Related Events by 10 (Must be equipped throughout the event).
+>leftovers
+<A savory meal saved from the night before for those unwilling to cook on a daily basis. Decreases the amount of Faction Points lost in Pokemon Individual Events by 2.
+>thinking cap
+<A hat provided to those who have achieved a certain level of educational progress. It is also remarkably easy to just steal one of these. Increases the amount of Faction Points gained in Chess Individual Events by 2.
+>apex matchmaker
+<A software that allows you to show off your amazing matchmaking skills. Pyro and Vishal owe their lives to this. Increases the amount of Faction Points earned from Special Collections by 5.
+>waifu compressor
+<This mechanical contraption is about as gruesome as its name implies. Allows the user to receive Faction Points for every 9 waifus collected as opposed to 10.
+>rare candy
+<Contrary to popular belief, this delectable treat can be found quite easily at your local convenience store. Grants the user 5 Faction Points. This item is consumed immediately after use.
+>experience share
+<A notorious contraption used to ease the difficulty of household games to comedic levels. Increases the amount of Faction Points gained by Pokemon Individual Events by 1.
+>strategy guide
+<A beginners guide to the battlefield. It contains a plethora of content despite its only message being to avoid a repeat of the Battle of Stalingrad. Increases the amount of Faction Points gained by Chess Individual Events by 1.
+>driftwood chopper
+<A wooden plank carved into what appears to be a lethal weapon. Unfortunately, appearances tend to be rather deceiving. Increases the amount of Faction Points gained by Brawlhalla Individual Events by 1.
+>neon blue highlighter
+<It has become abundantly clear that every high school student needs one of these to succeed. One can judge the quality of their teacher based on how strictly they enforce this. Increases the amount of Faction Points gained in Scribble.io Organized Events by 5.
+>oak pool cue
+<Won’t help you play better, but at least you’ve got something to blame your losses on. Decreases the amount of Faction Points lost in 8 Ball Pool by 2.
