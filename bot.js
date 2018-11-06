@@ -300,4 +300,4 @@ function readInfo(file, item) {
     }   
 }
 
-bot.login('NDc3MjAxNzM1MDk0MzcwMzQ2.Drgo4Q.rlldnfs6TDuUsEaN9kdaaH18kJI');
+bot.login(process.env.TOKEN);
